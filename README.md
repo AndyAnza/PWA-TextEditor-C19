@@ -5,6 +5,7 @@
 I developed this application as a means to enhance my PWA skills. The primary purpose of this app is to assist users in capturing and storing snippets of information in the form of notes. It provides a convenient platform for users to create, save, and organize their personal notes within the application. By working on this project, I aimed to gain practical experience in building Progressive Web Apps while offering users a valuable tool for managing their information effectively.
 
 ## URL
+https://texteditor-neya.herokuapp.com/
 
 ## Table of Contents
 
